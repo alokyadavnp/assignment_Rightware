@@ -1,7 +1,7 @@
 ---
 - hosts: localhost
   remote_user: alok
-  become: yes
+  become: no
   gather_facts: no
   tasks:
     - name: Install docker and some dependencies
