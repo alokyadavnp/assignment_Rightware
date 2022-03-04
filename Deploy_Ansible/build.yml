@@ -1,6 +1,5 @@
 ---
 - hosts: localhost
-  remote_user: alok
   become: no
   gather_facts: no
   tasks:
@@ -18,7 +17,7 @@
       pip:
         name: docker
 
-    - name: Build an image and push
+    - name: Build an image 
       docker_image:
         build:
           path: .
