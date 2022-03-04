@@ -2,7 +2,7 @@
 
 # BUILD with Vagrant File
 # configured service is SSH for remote connection to the docker container
-
+# Dockerfile contains command used in Ubuntu so recommended to use same.
 1. go into the Vagrant root directory and run the command,
         "vagrant up" or 
         "vagrant reload"
