@@ -18,6 +18,6 @@
 
 1. Go into the application root directory
 2. Run the command, 
-       "ansible-playbook build.yml" --> will ask for your system password just enter and will run the script
+       "ansible-playbook build.yml"
 3. Ansible is deployed in the localhost and on port 3000, use the address "localhost:3000" to access the webapp.
 
