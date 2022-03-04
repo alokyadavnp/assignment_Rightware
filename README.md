@@ -6,7 +6,7 @@
 1. go into the Vagrant root directory and run the command,
         "vagrant up" or "vagrant reload"
         
-   ![Screenshot from 2022-03-04 10-48-43](https://user-images.githubusercontent.com/61194564/156735272-8d307bec-f9ce-48ac-9725-fcd0fec9befd.png)
+   ![Screenshot from 2022-03-04 10-48-43](https://user-images.githubusercontent.com/61194564/156738045-6f2b5bdf-b3d0-4788-8179-32664fe19d05.png)
    
 2. To check into the running status of the Docker run the command
          "Docker ps"
